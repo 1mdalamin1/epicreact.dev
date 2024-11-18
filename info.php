@@ -16,6 +16,11 @@ ___________________________
 3. Wait... | 🎣 React Hooks 🚀 EpicReact.Dev (https://github.com/kentcdodds/react-hooks.git) 
 4. Pending | 
 
-hook-flow.png | => https://github.com/donavon/hook-flow
+hook-flow.png (need again stardy) | => https://github.com/donavon/hook-flow | https://www.epicreact.dev/modules/react-hooks-v1/hooks-flow
+
+
+
+
+
 
 */
