@@ -24,9 +24,9 @@ ___________________________
 3. Done | 🎣 React Hooks 🚀 EpicReact.Dev (https://github.com/kentcdodds/react-hooks.git) 
 4. Done | 🔥 Advanced React Hooks 🚀 git clone https://github.com/kentcdodds/advanced-react-hooks.git  
 5. Done | 💪 Advanced React Patterns 🤯 git clone https://github.com/kentcdodds/advanced-react-patterns.git  
-6. Runing... | ⚡ React Performance 🚀 git clone https://github.com/kentcdodds/react-performance.git  
-7. | 🧐 Testing React Applications 🚀 git clone https://github.com/kentcdodds/testing-react-apps.git  
-8. | 🔀 React Suspense 🚀 https://github.com/kentcdodds/react-suspense.git 
+6.  |⚡ React Performance 🚀 git clone https://github.com/kentcdodds/react-performance.git  
+7.  | 🧐 Testing React Applications 🚀 git clone https://github.com/kentcdodds/testing-react-apps.git  
+8. Runing... | 🔀 React Suspense 🚀 https://github.com/kentcdodds/react-suspense.git 
 9. | (bookshelf) Build an Epic React App https://github.com/kentcdodds/bookshelf.git
 10.
     
