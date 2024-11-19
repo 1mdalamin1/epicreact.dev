@@ -1,7 +1,12 @@
 <?php
 /*
 Helpful Emoji 🐨 💰 💯 📝 🦉 📜= Document 💣 💪 🏁 👨‍💼= Manager 🚨= Alert 🐳= Docker 🎣= Hooks 🚀= EpicReact.Dev
+====================================
+### React
+1. Class base = divi 4
+2. function base = divi 5
 
+====================================
 setup process
 --------------------
 it clone https://github.com/kentcdodds/react-hooks.git  
@@ -18,8 +23,13 @@ ___________________________
 2. Done | React Fundamentals (https://github.com/kentcdodds/react-fundamentals)
 3. Done | 🎣 React Hooks 🚀 EpicReact.Dev (https://github.com/kentcdodds/react-hooks.git) 
 4. Done | 🔥 Advanced React Hooks 🚀 git clone https://github.com/kentcdodds/advanced-react-hooks.git  
-5. Wait... | 💪 Advanced React Patterns 🤯 git clone https://github.com/kentcdodds/advanced-react-patterns.git  
-6. Pending | ⚡ React Performance 🚀 git clone https://github.com/kentcdodds/react-performance.git  
+5. Done | 💪 Advanced React Patterns 🤯 git clone https://github.com/kentcdodds/advanced-react-patterns.git  
+6. Runing... | ⚡ React Performance 🚀 git clone https://github.com/kentcdodds/react-performance.git  
+7. | 🧐 Testing React Applications 🚀 git clone https://github.com/kentcdodds/testing-react-apps.git  
+8. | 🔀 React Suspense 🚀 https://github.com/kentcdodds/react-suspense.git 
+9. | (bookshelf) Build an Epic React App https://github.com/kentcdodds/bookshelf.git
+10.
+    
 
 hook-flow.png (need again stardy) | => https://github.com/donavon/hook-flow | https://www.epicreact.dev/modules/react-hooks-v1/hooks-flow
 
