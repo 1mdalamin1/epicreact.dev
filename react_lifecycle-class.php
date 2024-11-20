@@ -42,7 +42,7 @@ ___________________________
 
 
 ___________________________
-#Class base React Lifecycle |+> https://www.geeksforgeeks.org/explain-lifecycle-methods-of-react-components/
+#Class based React Lifecycle |+> https://www.geeksforgeeks.org/explain-lifecycle-methods-of-react-components/
 > 1. Mounting: Mounting is the stage of rendering the JSX returned by the render method itself. the component is mounted on the DOM and rendered for the first time on the webpage.
   - componentWillMount(): before the render() function is executed for the first time
     --
@@ -58,9 +58,15 @@ ___________________________
     --
 > 3. Unmounting: This is the final phase of the lifecycle of the component. where the component is removed from the page.
   - componentWillUnmount(): This function is invoked before the component is finally unmounted from the DOM i.e. this function gets invoked once before the component is removed from the page and this denotes the end of the lifecycle.
-> 
-> 
-> 
+
+> component based Or class based
+___________________________
+#function based React Lifecycle 
+> useState()
+> useEffect()
+  - one-time render
+  - continues to render
+  - specific event render
 > 
 
 
